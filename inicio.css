@@ -1,0 +1,35 @@
+nav
+{
+    
+    background-color:antiquewhite;
+    width: auto;
+    height: 130px;
+}
+.Imao
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 170px;
+    margin-right: 20px;
+}
+div {
+   
+    position: absolute;
+    top: 65px;
+    left: 250px;
+    width:600px;
+    font-family:Arial, Helvetica, sans-serif;
+    list-style:none;
+    display: inline-flex;
+}
+
+li {
+    margin-left: 30px;
+    font-size: 17px;
+   
+    
+}
+a {
+    text-decoration: none;
+    color: red;
+}
